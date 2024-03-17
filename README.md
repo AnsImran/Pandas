@@ -45,7 +45,84 @@ We main followed the following Book. [Python for Data Analysis](https://www.amaz
 ### Dropping Data
 ### Indexing, Selection & Filtering
 ### Reindexing & use of 'ffill' value of parameter = 'method
-### Data Loading
+
+
+# Data Loading, Storage, and File Formats [See this notebook]()
+- .read_csv()
+- .read_table()
+- Dealing with delimiters other than ' , '
+- Skipping unwanted/troublesome rows
+- Handling Missing Values
+- Outlining missing values
+- Reading Text Files in Pieces
+- Writing Data to Text Format
+- Working with Delimited Formats
+- JSON Data
+- XML and HTML: Web Scraping
+- Binary Data Formats
+  - Converting data into pickle format
+- Using HDF5 Format
+- Reading Microsoft Excel Files
+- Interacting with Web APIs
+- Changing the type of a data/column
+- Handling Missing Values
+ - Filling
+ - Dropping
+- Handling Duplicate Records
+ - Giving your own definition of Duplicate
+- Combining and reshaping Data
+### Merging two data frames
+ - Inner
+ - Outer
+ - Left
+ - Right
+
+- .pivot()
+### Group By
+### Aggregate Functions
+- count
+- sum
+- mean
+- median
+- std, var
+- min, max
+- prod
+- first, last
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

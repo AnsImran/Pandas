@@ -47,7 +47,7 @@ We main followed the following Book. [Python for Data Analysis](https://www.amaz
 ### Reindexing & use of 'ffill' value of parameter = 'method
 
 
-# Data Loading, Storage, and File Formats [See this notebook]()
+## Data Loading, Storage, and File Formats [See this notebook]()
 - .read_csv()
 - .read_table()
 - Dealing with delimiters other than ' , '
@@ -89,6 +89,16 @@ We main followed the following Book. [Python for Data Analysis](https://www.amaz
 - prod
 - first, last
 
+## Time Series Data
+- datetime object from python library **datatime**
+- Pandas TimeStamp Object
+- .Timedelta()
+- time-series data
+- DatetimeIndex
+- Date Range
+- Creating time-series data with specific frequencies
+- Date offsets
+- Anchored offsets
     
 
 

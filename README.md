@@ -4,7 +4,7 @@ We main followed the following Book. [Python for Data Analysis](https://www.amaz
 
 # For **Demonstrated Proficiency** in Pandas, see this [project](https://github.com/AnsImran/Classifying-Quasars-Galaxies-Stars-using-Photometry)
 
-## Introduction to Pandas, Series & Data Frames [See this notebook]()
+## Introduction to Pandas, Series & Data Frames [See this notebook](https://github.com/AnsImran/Pandas/blob/main/1.%20Introduction%20to%20Pandas%2C%20Series%20%26%20Data%20Frames.ipynb)
 ### Series
 - Creating a Series in Pandas
 - Indices
@@ -47,7 +47,7 @@ We main followed the following Book. [Python for Data Analysis](https://www.amaz
 ### Reindexing & use of 'ffill' value of parameter = 'method
 
 
-## Data Loading, Storage, and File Formats [See this notebook]()
+## Data Loading, Storage, and File Formats [See this notebook](https://github.com/AnsImran/Pandas/blob/main/2.%20Data%20Loading%2C%20Storage%2C%20and%20File%20Formats.ipynb)
 - .read_csv()
 - .read_table()
 - Dealing with delimiters other than ' , '
@@ -89,7 +89,7 @@ We main followed the following Book. [Python for Data Analysis](https://www.amaz
 - prod
 - first, last
 
-## Time Series Data
+## Time Series Data [See this notebook](https://github.com/AnsImran/Pandas/blob/main/3.%20Time%20Series%20Data.ipynb)
 - datetime object from python library **datatime**
 - Pandas TimeStamp Object
 - .Timedelta()
